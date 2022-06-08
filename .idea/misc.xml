@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-hdpi/activity_main_h.xml" value="0.27447916666666666" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-hdpi/activity_main_high.xml" value="0.2439814814814815" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-land/activity_main.xml" value="0.23236331569664903" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.205859375" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xhdpi/activity_main_xdpi.xml" value="0.20032051282051283" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.205859375" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.205859375" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xxxhdpi/activity_main_xxxhdpi.xml" value="0.2439814814814815" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout-xxxhdpi/sdasd.xml" value="0.27447916666666666" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout/activity_main_xdpi.xml" value="0.10997267759562841" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/layout/horizontal_view.xml" value="0.20052083333333334" />
+        <entry key="..\:/src/VantiChai/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.290625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

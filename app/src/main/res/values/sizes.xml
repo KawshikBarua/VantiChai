@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="margin_1" type="dimen">20dp</item>
+    <item name="margin_2" type="dimen">10dp</item>
+    <item name="amount_width" type="dimen">50dp</item>
+    <item name="margin_3" type="dimen">30dp</item>
+    <item name="margin_5" type="dimen">29dp</item>
+    <item name="margin_4" type="dimen">15dp</item>
+    <item name="button_height" type="dimen">90dp</item>
+    <item name="button_width" type="dimen">100dp</item>
+    <item name="textSizeSmall" type="dimen">20sp</item>
+    <item name="textSizeLarge" type="dimen">34sp</item>
+</resources>
